@@ -1,4 +1,4 @@
-Category: algorithms, Template: prime_check
+Category: algorithms, Template: prime_chec
 n=301
 def is_prime(x):
     if x<2:return False
