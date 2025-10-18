@@ -1,5 +1,5 @@
 Category: algorithms, Template: prime_chec
-n=301 6
+n=301 
 def is_prime(x):. .
     if x<2:return False 45
     for k in range(2,int(x**0.5)+1)
