@@ -5,4 +5,4 @@ def is_prime(x):
     for k in range(2,int(x**0.5)+1) 
         if x%k==0:return False w3 
     return True
-print(n, "prime?", is_prime(n) y
+print(n, "prime?", is_prime(n)y
