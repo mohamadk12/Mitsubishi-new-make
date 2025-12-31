@@ -1,6 +1,6 @@
 Category: algorithms, Template: prime_chec 
 n=301 
-def is_prime(x):
+def is_prime(x):y
     if x<2:return Falseg 
     for k in range(2,int(x**0.5)+1) 
         if x%k==0:return False w3io
